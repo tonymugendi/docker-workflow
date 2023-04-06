@@ -26,4 +26,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: docker-workflow/docker-react-workflow:latest
+          tags: docker-workflow/docker-workflow:latest
