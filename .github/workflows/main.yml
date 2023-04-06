@@ -27,4 +27,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: tonykushe/docker-workflow/docker-workflow:latest
+          tags: tonykushe/docker-workflow:latest
